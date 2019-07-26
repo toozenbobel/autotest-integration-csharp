@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "AutotestsSync": {
+      "commandName": "Project",
+      "commandLineArgs": "",
+      "environmentVariables": {
+        "testItUser": "admin",
+        "testItUrl": "http://test.ru",
+        "testItSecretKey": ""
+      }
+    }
+  }
+}

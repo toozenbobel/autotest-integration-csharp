@@ -1,0 +1,6 @@
+﻿target/
+.vs/
+bin/
+obj/
+*.effective.yml
+*.csproj.user
