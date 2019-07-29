@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "testit.linker": {
+      "commandName": "Project",
+      "commandLineArgs": "",
+      "environmentVariables": {
+        "testItUser": "",
+        "testItUrl": "",
+        "testItSecretKey": ""
+      }
+    }
+  }
+}

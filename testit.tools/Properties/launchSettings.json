@@ -1,11 +1,13 @@
 {
   "profiles": {
-    "AutotestsSync": {
+    "testit.tools": {
       "commandName": "Project",
       "commandLineArgs": "",
       "environmentVariables": {
-        "testItUser": "admin",
-        "testItUrl": "http://test.ru",
+        "testItUser": "",
+        "testProjectId": "",
+        "testRunId": "",
+        "testItUrl": "",
         "testItSecretKey": ""
       }
     }
